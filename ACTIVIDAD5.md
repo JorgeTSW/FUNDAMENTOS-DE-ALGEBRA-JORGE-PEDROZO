@@ -27,3 +27,5 @@ $$\theta = \frac{\pi}{4} \text{ radianes } (45^\circ)$$
 
 ## **Forma polar** 
 $$\sqrt{2} \left(\cos\frac{\pi}{4} + i \sin\frac{\pi}{4}\right)$$
+
+![]( ./Captura.PNG )
