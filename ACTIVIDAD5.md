@@ -32,4 +32,4 @@ $$\sqrt{2} \left(\cos\frac{\pi}{4} + i \sin\frac{\pi}{4}\right)$$
 
 # MI NUEVA IMAGEN
 
-![]( ./imagen.PNG )
+![]( ./imagen.png )
