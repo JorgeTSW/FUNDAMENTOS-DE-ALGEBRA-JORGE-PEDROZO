@@ -29,3 +29,7 @@ $$\theta = \frac{\pi}{4} \text{ radianes } (45^\circ)$$
 $$\sqrt{2} \left(\cos\frac{\pi}{4} + i \sin\frac{\pi}{4}\right)$$
 
 ![]( ./Captura.PNG )
+
+# MI NUEVA IMAGEN
+
+![]( ./imagen.PNG )
